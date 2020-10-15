@@ -1,0 +1,2 @@
+# IONIC STARTER KIT
+
