@@ -1,0 +1,10 @@
+{
+  "name": "heroes",
+  "integrations": {
+    "cordova": {}
+  },
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,41 @@
+{
+    "project_info": {
+        "project_number": "837532526787",
+        "firebase_url": "https://heroes-app-68d39.firebaseio.com",
+        "project_id": "heroes-app-68d39",
+        "storage_bucket": "heroes-app-68d39.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:837532526787:android:5272bc01d2292a422eda76",
+            "android_client_info": {
+                "package_name": "com.ionic.heroes"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "837532526787-h3bbt97lsr8vcp9v2g0a3m1esqgpadha.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.ionic.heroes",
+                    "certificate_hash": "dd6940d99e67d4fb21ecec5a6de891fbe38fd140"
+                }
+            },
+            {
+                "client_id": "837532526787-iqqe34d1gqq2dp3p6o3eaanc2t3ctvje.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyCbcqX7Nd-zWHiIWKbnG95LODSLeKolMxw"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "837532526787-iqqe34d1gqq2dp3p6o3eaanc2t3ctvje.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">heroes</string>
+    <string name="title_activity_main">heroes</string>
+    <string name="package_name">shadow.hijackers.heroes</string>
+    <string name="custom_url_scheme">shadow.hijackers.heroes</string>
+</resources>
